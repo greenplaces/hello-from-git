@@ -143,3 +143,8 @@ index 0000000..a5a48f0
 # run code
   git commit -m "added new file" 
 # ไปที่ github.com copy link ที่ git clone
+    git push https://github.com/greenplaces/hello-from-git.git
+
+  
+# ------------------------------------------------------------------------------------
+# ---------------  lesson 23 Important Git Branch And Merge --------------------------
